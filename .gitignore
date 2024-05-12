@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/Game
+/Game/x64
+/x64
